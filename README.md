@@ -1,7 +1,11 @@
 > To see a world in a grain of sand
+
 And a heaven in a wild flower
+
 Hold infinity in the palm of your hand
+
 And eternity in an hour
+
 　　　　　　　　　　-William Blake
 
 上面这首诗出自英国著名浪漫主义诗人威廉-布雷克。在“机器学习”、“计算机视觉”等概念被炒得火热的“人工智能时代”，我们民生科技人能从某一技术热点切入，将新技术带入到金融应用场景中，做到“以管窥豹，可见一斑”也是极好的了。这里我就从基于机器学习的OCR技术说开去，简单讲一下怎么能让电脑识别出银行票据上的数字，也算是抛砖引玉吧！
